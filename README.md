@@ -13,3 +13,4 @@ def fibonacci(int1, int2):
         int2 = temp
         fibonacci(int1, int2)
 ```
+Added a limit as a break condition so it wouldn't go on forever
